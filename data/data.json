@@ -1,25 +1,28 @@
 {
     "about":[
         {
-            "about":"My name is Keegan Niekerk , an 18 year old aspiring developer.I enjoy gaming , anime , hiking and finding new interesting things to learn about. From a young age , I was always fascinated by the new and cool  changes in technology. I may not be very experienced and skilled at the moment , but I am dedicated and always willing to learn more and up-skilling myself.",
+            "about":"My name is Keegan Niekerk , an 18 year old aspiring developer. From a young age , I was always fascinated by the new and cool changes in technology. I may not be very experienced and skilled at the moment , but I am dedicated and always willing to learn more and up-skilling myself.",
             "me":"https://mrshane06.github.io/personal-portfolio-images/me/me_img.jpg"
         }
     ],
     "education":[
         {
-            "education":"Modderdam highschool",
-            "image":"https://mrshane06.github.io/personal-portfolio-images/education/Modderdam%20high.jpg",
-            "years":"2019-2023"
+            "education":"Life Choices Coding Academy",
+            "image":"https://mrshane06.github.io/personal-portfolio-images/education/Life%20Choices.png",
+            "edu-description":"Here at the Life Choices Coding Academy I have learned many things , including various coding languages and how to manage myself in a workplace environment.",
+            "years":"2024-now"
         },
         {
             "education":"Leaders Quest",
             "image":"https://mrshane06.github.io/personal-portfolio-images/education/leaders%20quest.png",
+            "edu-description":"During my time at Leaders Quest , I've learned many leadership skills , and how to make important decisions.",
             "years":"2022-2023"
         },
         {
-            "education":"Life Choices Coding Academy",
-            "image":"https://mrshane06.github.io/personal-portfolio-images/education/Life%20Choices%20logo.png",
-            "years":"2024-now"
+            "education":"Modderdam Highschool",
+            "image":"https://mrshane06.github.io/personal-portfolio-images/education/Modderdam.png",
+            "edu-description":"My time at Modderdam has taught me many things , how to properly engage with those around me , how to think critically and analytically , and how work well with others. ",
+            "years":"2019-2023"
         }
     ],
     "experiences":[
@@ -27,54 +30,73 @@
     ],
     "skills":[
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/html.jpg",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/html.jpg",
             "skill":"HTML",
             "level":"Advanced"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/css.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/css.png",
             "skill":"CSS",
             "level":"Adept"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/JavaScript%20logo.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/download.png",
+            "skill":"Bootstrap",
+            "level":"Adept"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/JavaScript%20logo.png",
             "skill":"JavaScript",
             "level":"Intermediate"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/android-chrome-maskable-192x192.png",
-            "skill":"Vue",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/android-chrome-maskable-192x192.png",
+            "skill":"VueJs",
             "level":"Intermediate"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/images.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/NodeJs.png",
+            "skill":"NodeJs",
+            "level":"Intermediate"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/images.png",
             "skill":"Computer literacy",
             "level":"I know my way around a computer. "
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/reliability.jpg",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/reliability.jpg",
             "skill":"Reliability",
             "level":"I am always going to be there when asked."
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/Adaptability.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/respect.png",
+            "skill":"Respectfulness",
+            "level":"I believe that everyone deserves respect."
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Communication.png",
+            "skill":"Communication",
+            "level":"I prefer in-person conversations and I'm easy to talk to."
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Adaptability.png",
             "skill":"Adaptability",
             "level":"Able to adapt and learn to new things"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/Attention%20to%20detail.png",
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Attention%20to%20detail.png",
             "skill":"Attention to detail",
             "level":"Ability to pay close attention to small changes."
         }
     ],
     "projects":[
         {
-            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/portfolio1.png",
-            "Pname":"Previous Portfolio",
-            "description":"My original portfolio , made only with CSS , Bootstrap and HTML.",
-            "github":"https://github.com/mrshane06/1st-portfolio",
-            "live":"https://1st-portfolio-c9hc-25f5kmvv9-mrshane06s-projects.vercel.app/"
-
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/SWEGGA.png",
+            "Pname":"SWEGGA",
+            "description":"A practice e-commerce project made with JavaScript",
+            "github":"https://github.com/mrshane06/SWEGGA",
+            "live":"https://swegga-dpbvk5cxs-mrshane06s-projects.vercel.app/"
         },
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/hulu.png",
@@ -91,13 +113,6 @@
             "live":"https://rgb-to-inm5mr6uf-mrshane06s-projects.vercel.app/"
         },
         {
-            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/JavaS_calc.png",
-            "Pname":"Calculator",
-            "description":"A fully functioning calculator made with JavaScript.",
-            "github":"https://github.com/mrshane06/JavaScript-Calc",
-            "live":"https://java-script-calc-r04a7u49v-mrshane06s-projects.vercel.app/"
-        },
-        {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/Age%20to%20Days.png",
             "Pname":"Age To Days",
             "description":"A website that converts your current age to the exact amount of days",
@@ -105,11 +120,18 @@
             "live":"https://age-to-days-qbf1nttlk-mrshane06s-projects.vercel.app/"
         },
         {
-            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/SWEGGA.png",
-            "Pname":"SWEGGA",
-            "description":"A practice e-commerce project made with JavaScript",
-            "github":"https://github.com/mrshane06/SWEGGA",
-            "live":"https://swegga-dpbvk5cxs-mrshane06s-projects.vercel.app/"
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/JavaS_calc.png",
+            "Pname":"Calculator",
+            "description":"A fully functioning calculator made with JavaScript.",
+            "github":"https://github.com/mrshane06/JavaScript-Calc",
+            "live":"https://java-script-calc-r04a7u49v-mrshane06s-projects.vercel.app/"
+        },        {
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/Keyboard.png",
+            "Pname":"Keyboard",
+            "description":"A virtual keyboard I've made with HTML and CSS.",
+            "github":"https://github.com/mrshane06/Keyboard",
+            "live":"https://keyboard-61hcmgp74-mrshane06s-projects.vercel.app/"
+
         }
     ]
 }
