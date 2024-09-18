@@ -31,63 +31,59 @@
     "skills":[
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/html.jpg",
-            "skill":"HTML",
-            "level":"Advanced"
+            "skill":"HTML"
         },
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/css.png",
-            "skill":"CSS",
-            "level":"Adept"
+            "skill":"CSS"
         },
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/download.png",
-            "skill":"Bootstrap",
-            "level":"Adept"
+            "skill":"Bootstrap"
         },
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/JavaScript%20logo.png",
-            "skill":"JavaScript",
-            "level":"Intermediate"
+            "skill":"JavaScript"
         },
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/android-chrome-maskable-192x192.png",
-            "skill":"VueJs",
-            "level":"Intermediate"
+            "skill":"VueJs"
         },
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/NodeJs.png",
-            "skill":"NodeJs",
-            "level":"Intermediate"
+            "skill":"NodeJs"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/mysql.png",
+            "skill":"MySQL"
         },
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/images.png",
-            "skill":"Computer literacy",
-            "level":"I know my way around a computer. "
+            "skill":"Computer literacy"
         },
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/reliability.jpg",
-            "skill":"Reliability",
-            "level":"I am always going to be there when asked."
+            "skill":"Reliability"
         },
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/respect.png",
-            "skill":"Respectfulness",
-            "level":"I believe that everyone deserves respect."
+            "skill":"Respectfulness"
         },
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Communication.png",
-            "skill":"Communication",
-            "level":"I prefer in-person conversations and I'm easy to talk to."
+            "skill":"Communication"
         },
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Adaptability.png",
-            "skill":"Adaptability",
-            "level":"Able to adapt and learn to new things"
+            "skill":"Adaptability"
+        },
+        {
+            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/teamwork.jpg",
+            "skill":"Team Work"
         },
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Attention%20to%20detail.png",
-            "skill":"Attention to detail",
-            "level":"Ability to pay close attention to small changes."
+            "skill":"Attention to detail"
         }
     ],
     "projects":[
