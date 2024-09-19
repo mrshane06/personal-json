@@ -88,11 +88,18 @@
     ],
     "projects":[
         {
-            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/SWEGGA.png",
-            "Pname":"SWEGGA",
-            "description":"A practice e-commerce project made with JavaScript",
-            "github":"https://github.com/mrshane06/SWEGGA",
-            "live":"https://swegga-dpbvk5cxs-mrshane06s-projects.vercel.app/"
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/HexaShop.png",
+            "Pname":"HexaShop",
+            "description":"An e-commerce that I've made with a partner.",
+            "github":"https://github.com/mrshane06/node_assignment",
+            "live":"https://node-eomp-272a2.web.app/"
+        },
+        {
+            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/PetPalace.png",
+            "Pname":"The Pet Palace",
+            "description":"A JavaScript e-commerce project",
+            "github":"https://github.com/mrshane06/2nd-Portfolio/tree/about",
+            "live":"https://e-commerce-project-beta-taupe.vercel.app/"
         },
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/hulu.png",
@@ -100,13 +107,6 @@
             "description":"My attempt at remaking the hulu website.",
             "github":"https://github.com/mrshane06/hulu",
             "live":"https://hulu-h3ovucx8p-mrshane06s-projects.vercel.app/"
-        },
-        {
-            "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/RGB-HEX.png",
-            "Pname":"Basic RGB to HEX converter",
-            "description":"A very simple application that converts RBG values into HEX values.",
-            "github":"https://github.com/mrshane06/RGBToHex",
-            "live":"https://rgb-to-inm5mr6uf-mrshane06s-projects.vercel.app/"
         },
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/Age%20to%20Days.png",
@@ -127,7 +127,6 @@
             "description":"A virtual keyboard I've made with HTML and CSS.",
             "github":"https://github.com/mrshane06/Keyboard",
             "live":"https://keyboard-61hcmgp74-mrshane06s-projects.vercel.app/"
-
         }
     ]
 }
