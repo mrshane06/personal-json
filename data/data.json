@@ -13,20 +13,25 @@
             "years":"April 2024 - September 2024"
         },
         {
-            "education":"Leaders Quest",
-            "image":"https://mrshane06.github.io/personal-portfolio-images/education/leaders%20quest.png",
-            "eduDesc":"During my time at Leaders Quest , I've learned many leadership skills , and how to make important decisions.",
-            "years":"2022-2023"
-        },
-        {
             "education":"Modderdam Highschool",
             "image":"https://mrshane06.github.io/personal-portfolio-images/education/Modderdam%20high.jpg",
             "eduDesc":"My time at Modderdam has taught me many things , how to properly engage with those around me , how to think critically and analytically , and how work well with others. ",
             "years":"2019-2023"
+        },
+        {
+            "education":"Leaders Quest",
+            "image":"https://mrshane06.github.io/personal-portfolio-images/education/leaders%20quest.png",
+            "eduDesc":"During my time at Leaders Quest , I've learned many leadership skills , and how to make important decisions.",
+            "years":"2022-2023"
         }
     ],
     "experiences":[
-
+        {
+            "company":"LC Studio",
+            "image":"https://mrshane06.github.io/personal-portfolio-images/education/Life%20Choices%20logo.png",
+            "position":"Intern",
+            "years":"September 2024 - Current"
+        }
     ],
     "skills":[
         {
