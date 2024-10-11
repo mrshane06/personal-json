@@ -1,7 +1,7 @@
 {
     "about":[
         {
-            "about":"My name is Keegan Niekerk , an 18 year old aspiring developer. From a young age , I was always fascinated by the new and cool changes in technology. I may not be very experienced and skilled at the moment , but I am dedicated and always willing to learn more and up-skilling myself.",
+            "about":"My name is Keegan Niekerk , an 18 year old aspiring developer. From a young age , I was always fascinated by the new and cool changes in technology. I may not be very experienced and skilled at the moment , but I am dedicated and always willing to learn more and up-skilling myself. With my dedication to continuous learning , adaptability , and ability to work well with others , I feel that these skills would make me a valuable asset to any developer team.",
             "me":"https://mrshane06.github.io/personal-portfolio-images/me/me_img.jpg"
         }
     ],
@@ -56,34 +56,6 @@
         {
             "img":"https://mrshane06.github.io/personal-portfolio-images/skills/languages/mysql.png",
             "skill":"MySQL"
-        },
-        {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/images.png",
-            "skill":"Computer literacy"
-        },
-        {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/reliability.jpg",
-            "skill":"Reliability"
-        },
-        {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/respect.png",
-            "skill":"Respectfulness"
-        },
-        {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Communication.png",
-            "skill":"Communication"
-        },
-        {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Adaptability.png",
-            "skill":"Adaptability"
-        },
-        {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/teamwork.jpg",
-            "skill":"Team Work"
-        },
-        {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Attention%20to%20detail.png",
-            "skill":"Attention to detail"
         }
     ],
     "projects":[
