@@ -60,24 +60,24 @@
     ],
     "softSkills":[
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/images.png",
-            "skill":"Computer Literacy"
+            "softImg":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/images.png",
+            "soft":"Computer Literacy"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Adaptability.png",
-            "skill":"Adaptability"
+            "softImg":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Adaptability.png",
+            "soft":"Adaptability"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/teamwork.jpg",
-            "skill":"Team Work"
+            "softImg":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/teamwork.jpg",
+            "soft":"Team Work"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Attention%20to%20detail.png",
-            "skill":"Attention to detail"
+            "softImg":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Attention%20to%20detail.png",
+            "soft":"Attention to detail"
         },
         {
-            "img":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Communication.png",
-            "skill":"Communication"
+            "softImg":"https://mrshane06.github.io/personal-portfolio-images/skills/soft%20skills/Communication.png",
+            "soft":"Communication"
         }
     ],
     "projects":[
