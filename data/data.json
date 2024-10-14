@@ -120,7 +120,8 @@
             "description":"A fully functioning calculator made with JavaScript.",
             "github":"https://github.com/mrshane06/JavaScript-Calc",
             "live":"https://java-script-calc-r04a7u49v-mrshane06s-projects.vercel.app/"
-        },        {
+        },
+        {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/Keyboard.png",
             "Pname":"Keyboard",
             "description":"A virtual keyboard I've made with HTML and CSS.",
