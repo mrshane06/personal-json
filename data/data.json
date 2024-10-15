@@ -90,35 +90,35 @@
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/HexaShop.png",
             "Pname":"HexaShop",
-            "description":"An e-commerce that I've made with a partner.",
+            "description":"An e-commerce that I've made with a partner made with NodeJs and VueJs.",
             "github":"https://github.com/mrshane06/node_assignment",
             "live":"https://node-eomp-272a2.web.app/"
         },
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/PetPalace.png",
             "Pname":"The Pet Palace",
-            "description":"A JavaScript e-commerce project",
+            "description":"A JavaScript e-commerce project made with JavaScript , HTML and CSS.",
             "github":"https://github.com/mrshane06/2nd-Portfolio/tree/about",
             "live":"https://e-commerce-project-beta-taupe.vercel.app/"
         },
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/hulu.png",
             "Pname":"Hulu Remake",
-            "description":"My attempt at remaking the hulu website.",
+            "description":"My attempt at remaking the hulu website made with HTML and CSS.",
             "github":"https://github.com/mrshane06/hulu",
             "live":"https://hulu-h3ovucx8p-mrshane06s-projects.vercel.app/"
         },
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/Age%20to%20Days.png",
             "Pname":"Age To Days",
-            "description":"A website that converts your current age to the exact amount of days",
+            "description":"A website that converts your current age to the exact amount of days made with HTML and JavaScript.",
             "github":"https://github.com/mrshane06/AgeToDays",
             "live":"https://age-to-days-qbf1nttlk-mrshane06s-projects.vercel.app/"
         },
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/JavaS_calc.png",
             "Pname":"Calculator",
-            "description":"A fully functioning calculator made with JavaScript.",
+            "description":"A fully functioning calculator made with JavaScript and HTML.",
             "github":"https://github.com/mrshane06/JavaScript-Calc",
             "live":"https://java-script-calc-r04a7u49v-mrshane06s-projects.vercel.app/"
         },
