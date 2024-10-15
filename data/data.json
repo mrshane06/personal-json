@@ -111,7 +111,7 @@
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/Age%20to%20Days.png",
             "Pname":"Age To Days",
-            "description":"A website that converts your current age to the exact amount of days made with HTML and JavaScript.",
+            "description":"A website that converts your age to days made with HTML and JavaScript.",
             "github":"https://github.com/mrshane06/AgeToDays",
             "live":"https://age-to-days-qbf1nttlk-mrshane06s-projects.vercel.app/"
         },
