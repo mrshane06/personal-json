@@ -86,6 +86,24 @@
             "soft":"Communication"
         }
     ],
+    "achievements":[
+        {
+            "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/operating-systems-basics.png",
+            "name":"Operating Systems Basics"
+        },
+        {
+            "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/linux-unhatched.png",
+            "name":"Linux Unhatched"
+        },
+        {
+            "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/network-technician-career-path.png",
+            "name":"Networking Technician Career Path"
+        },
+        {
+            "badges":"https://mrshane06.github.io/personal-portfolio-images/skills/badges/networking-devices-and-initial-configuration.png",
+            "name":"Networking Device And Initial Configuration"
+        }
+    ],
     "projects":[
         {
             "Pimage":"https://mrshane06.github.io/personal-portfolio-images/projects/HexaShop.png",
