@@ -1,7 +1,7 @@
 {
     "about":[
         {
-            "about":"My name is Keegan Niekerk , an 18 year old aspiring developer. From a young age , I was always fascinated by the new and cool changes in technology. I may not be very experienced and skilled at the moment , but I am dedicated and always willing to learn more and up-skilling myself. With my dedication to continuous learning , adaptability , and ability to work well with others , I feel that these skills would make me a valuable asset to any developer team.",
+            "about":"My name is Keegan Niekerk , a young aspiring developer. I have always been fascinated by the new and cool changes in technology. I may not be very experienced and skilled at the moment , but I am dedicated and always willing to learn more and up-skilling myself. With my dedication to continuous learning , adaptability , and ability to work well with others , I feel that these skills would make me a valuable asset to any developer team.",
             "me":"https://mrshane06.github.io/personal-portfolio-images/me/me_img.jpg"
         }
     ],
@@ -30,7 +30,7 @@
             "company":"LC Studio",
             "image":"https://mrshane06.github.io/personal-portfolio-images/education/Life%20Choices%20logo.png",
             "position":"Intern",
-            "jobDes":"I gained knowledge and experience through the networking and AWS learning journey's offered at LC Studio.",
+            "jobDes":"I gained knowledge and experience through the Networking , Software engineering and AWS learning journey's offered at LC Studio.",
             "years":"September 2024 - current"
         }
     ],
